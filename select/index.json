@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "MILLION DOLLAR BABY",
+  "base_artist": "Tommy Richman",
+  "createdAt": "2026-02-19T00:16:34.215675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Million Dollar Baby",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/01_Million_Dollar_Baby_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Million Dollar Baby",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/02_Million_Dollar_Baby_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Found A Million Dollar Baby (In A Five & Ten Cent Store)",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/03_I_Found_A_Million_Dollar_Baby_(In_A_Five_&_Ten_Cent_Store)_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Found A Million Dollar Baby",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/04_I_Found_A_Million_Dollar_Baby_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Found A Million Dollar Baby (In A Five And Ten Cent Store)",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/05_I_Found_A_Million_Dollar_Baby_(In_A_Five_And_Ten_Cent_Store)_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Found A Million Dollar Baby (In A Five And Ten Cent Store) (1957)",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/06_I_Found_A_Million_Dollar_Baby_(In_A_Five_And_Ten_Cent_Store)_(1957)_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Found a Million Dollar Baby (In a Five and Ten Cent Store)",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/07_I_Found_a_Million_Dollar_Baby_(In_a_Five_and_Ten_Cent_Store)_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Million Dollar Baby",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/08_Million_Dollar_Baby_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Million Dollar Baby",
+      "artist": "Duki feat. Eladio Carrion & Sfera Ebbasta",
+      "has_synced": true,
+      "path": "select/09_One_Million_Dollar_Baby_Duki_feat._Eladio_Carrion_&_Sfera_Ebbasta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Million Dollar Baby",
+      "artist": "Duki",
+      "has_synced": true,
+      "path": "select/10_One_Million_Dollar_Baby_Duki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Found a Million Dollar Baby",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/11_I_Found_a_Million_Dollar_Baby_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Million Dollar Baby",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/12_Million_Dollar_Baby_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Million Dollar Baby",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/13_Million_Dollar_Baby_Ava_Max.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MILLION DOLLAR BABY",
+      "artist": "Tommy Richman",
+      "has_synced": false,
+      "path": "select/pl_01_MILLION_DOLLAR_BABY_Tommy_Richman.txt"
+    }
+  ]
+}
